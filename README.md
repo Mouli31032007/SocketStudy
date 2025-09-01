@@ -79,12 +79,12 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## Output
-## server
+## client
 <img width="539" height="236" alt="cli" src="https://github.com/user-attachments/assets/eb684da4-152b-452c-8dea-4cd41fc98c9e" />
 
 
 
-## client
+## server
 <img width="510" height="167" alt="ser" src="https://github.com/user-attachments/assets/ce78769d-271f-4a49-be4c-5523eec81b40" />
 
 
